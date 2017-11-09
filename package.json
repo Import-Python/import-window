@@ -1,0 +1,15 @@
+{
+  "name": "import-window",
+  "version": "1.0.0",
+  "description": "Dynamic Window Manager for Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Electron",
+    "Windows"
+  ],
+  "author": "ImportPython - Brendan Fuller (http://brendanfuller.com)",
+  "license": "MIT"
+}
