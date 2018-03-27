@@ -1,6 +1,6 @@
 {
   "name": "import-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dynamic Window Manager for Electron",
   "main": "index.js",
   "scripts": {
