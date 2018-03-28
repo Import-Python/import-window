@@ -12,5 +12,8 @@
     "manager"
   ],
   "author": "Import-Python",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "is-electron-render": "^1.0.0"
+  }
 }
